@@ -1,0 +1,1 @@
+Since I have a growing album collection I've decided to create a python script that will list all my albums in one place and also select a random one because sometimes I have no idea what to choose ;)
